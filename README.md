@@ -9,7 +9,7 @@ Repository ini berisi proyek data analytics yang saya kerjakan. Deployment in **
 
 ## Deskripsi
 
-Proyek ini bertujuan untuk menganalisis data pada E-Commerce Public Dataset. Tujuan akhirnya adalah untuk menghasilkan wawasan dan informasi yang berguna dari data yang dianalisis.
+Proyek ini bertujuan untuk menganalisis data pada Bike Sharing Dataset. Tujuan akhirnya adalah untuk menghasilkan wawasan dan informasi yang berguna dari data yang dianalisis.
 
 ## Struktur Direktori
 
