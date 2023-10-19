@@ -44,3 +44,6 @@ Proyek ini bertujuan untuk menganalisis data pada Bike Sharing Dataset. Tujuan a
 ## Kontribusi
 Anda dapat berkontribusi pada proyek ini dengan melakukan pull request. Pastikan untuk menjelaskan perubahan yang Anda usulkan secara jelas dan menyeluruh.
 
+## Review
+berikut merupakan penilaian dari Dicoding
+(https://raw.githubusercontent.com/ariniamsr/bike-sharing/main/Penilaian%20dari%20dicoding.png)
