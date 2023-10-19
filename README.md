@@ -46,4 +46,4 @@ Anda dapat berkontribusi pada proyek ini dengan melakukan pull request. Pastikan
 
 ## Review
 berikut merupakan penilaian dari Dicoding
-(https://raw.githubusercontent.com/ariniamsr/bike-sharing/main/Penilaian%20dari%20dicoding.png)
+![Bike Sharing Dashboard Review](https://raw.githubusercontent.com/ariniamsr/bike-sharing/main/Penilaian%20dari%20dicoding.png)
