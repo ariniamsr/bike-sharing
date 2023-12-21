@@ -1,4 +1,4 @@
-![image](https://github.com/ariniamsr/bike-sharing/assets/117062760/2641a05b-3cd5-4303-8f30-6f1adfd29a35)# Submission Dicoding "Belajar Analisis Data dengan Python"
+# Submission Dicoding "Belajar Analisis Data dengan Python"
 
 ## Preview
 ![Bike Sharing Dashboard Streamlit Preview](https://raw.githubusercontent.com/ariniamsr/bike-sharing/main/preview.png)
